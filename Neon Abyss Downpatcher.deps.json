@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Neon Abyss Downpatcher/1.0.0": {
+        "runtime": {
+          "Neon Abyss Downpatcher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neon Abyss Downpatcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
