@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "DepotDownloader/2.4.3": {
+      "DepotDownloader/2.4.5": {
         "dependencies": {
           "SteamKit2": "2.4.0-Alpha.3",
           "protobuf-net": "3.0.101"
@@ -63,7 +63,7 @@
     }
   },
   "libraries": {
-    "DepotDownloader/2.4.3": {
+    "DepotDownloader/2.4.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
