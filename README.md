@@ -1,6 +1,8 @@
 # Neon Abyss Downpatcher
 A useful tool for downpatching to any version of the game.
 
+## ** THIS TOOL IS DEPRECATED AND NO LONGER FUNCTIONAL. **
+
 Download the latest release [here](https://github.com/TheNickRyan/Neon-Abyss-Downpatcher/releases), and run the `Neon Abyss Downpatcher.exe`. Once the program opens, browse for the main game folder (should be the default directory `C:\Program Files(x86)\Steam\steamapps\common\Neon Abyss`), then select a Manifest number.
 
 ### Manifests and Versions
